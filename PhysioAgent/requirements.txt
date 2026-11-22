@@ -1,0 +1,32 @@
+# Agent Framework & Model Interface
+ddgs
+smolagents>=1.26.0
+openai>=1.58.0
+
+# Search & Tooling
+duckduckgo-search>=7.0.0
+
+# Observability & Tracing
+langfuse>=2.50.0
+
+# Evaluation Dataset & HF Hub
+datasets>=3.0.0
+huggingface-hub>=0.28.0
+
+# Local Embeddings & Vector Operations
+sentence-transformers>=3.3.0
+torch>=2.2.0
+numpy>=1.26.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Lang graph
+langgraph 
+langchain 
+langchain-openai 
+langfuse 
+pydantic
+rich
+grandalf
